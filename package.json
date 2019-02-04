@@ -1,0 +1,23 @@
+{
+  "name": "ag-grid-demo-stackoverflow-question",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "ag-grid": "18.1.0",
+    "ag-grid-react": "18.1.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-dom-factories": "1.0.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
